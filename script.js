@@ -1,3 +1,4 @@
+// Stacks intro h1 elements to one another 
 jQuery(document).ready(function () {
     window.onscroll = function () {
         var positionOne = jQuery("#scroll-screen-one").offset();
