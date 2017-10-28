@@ -5,30 +5,44 @@ html, body {
     position: relative;
 }
 
-.wrapper {
+/*---------- Main content styles ----------*/
+/* .main {
     text-align: center;
-}
+} */
 
 div {
     margin: 0;
     padding: 0;
 }
 
-p {
+h1.center {
+    position: fixed;
     margin: 0;
     padding: 0;
+    text-align: center;
+    top: 45%;
+    left: 40%;
+    z-index: 0;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    color: rgb(255, 255, 255);
+    font-family: 'Anton', sans-serif;
+    font-size: 4.6rem;
+    /* text-transform: uppercase; */
+    letter-spacing: 0.2rem;
+    
 }
 
+/*---------- Main content screen styles ---------- */
 div .screen {
     height: 100vh;
 }
 
 .on-ice {
-    /* background-color: rgb(244, 224, 77); */
     background-image: url("300849.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    z-index: -1;
 }
 
 .ice {
@@ -36,20 +50,12 @@ div .screen {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    z-index: -1;
 }
 
-#two {
-    background-color: rgb(242, 237, 111);
+#screen-white {
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
 }
 
-#three {
-    background-color: rgb(206, 227, 151);
-}
 
-#four {
-    background-color: rgb(141, 177, 171);
-}
-
-#five {
-    background-color: rgb(88, 119, 146);
-}
