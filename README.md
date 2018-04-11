@@ -1,7 +1,7 @@
 # Website 
 
-A website to house my social media, resume, and skills. 
+A portfolio website to house my projects, resume, skills and social media. 
 
 # Live 
 
-[See the real thing](https://helencho.github.io/) 
+[helencho.io](http://helencho.io/) 
