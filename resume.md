@@ -41,17 +41,13 @@ A Mad Libs inspired phrasal template word game that prompts users for a list of 
 
 ## Experience
 
-**Coalition For Queens**
-
-*Full Stack Development Fellowship*
+**Coalition For Queens** | *Full Stack Development Fellowship*
 
 *Sept 2017 - Present*
 
 Intensive 10-month project-based Full Stack development curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn.
 
-**Choe & Oh, P.C.**
-
-*Legal Assistant*
+**Choe & Oh, P.C.** | *Legal Assistant*
 
 *Oct 2015 - Sept 2017*
 
