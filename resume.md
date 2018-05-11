@@ -16,7 +16,7 @@ JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, H
 
 ## Projects
 
-[### Elevate](https://github.com/davidyshin/elevate)
+### [Elevate](https://github.com/davidyshin/elevate)
 
 *React.js, Postgres, CSS3*
 
