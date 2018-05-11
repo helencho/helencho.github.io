@@ -1,6 +1,6 @@
 # HELEN CHO
 
-516 244 7969    |   (Github)[https://github.com/helencho]   |   (LinkedIn)[https://www.linkedin.com/in/haeyoungcho/]    |   helencho@ac.c4q.nyc
+516 244 7969    |   [Github](https://github.com/helencho)   |   [LinkedIn](https://www.linkedin.com/in/haeyoungcho/)    |   helencho@ac.c4q.nyc
 
 ---
 ## SKILLS
@@ -10,11 +10,11 @@ JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, H
 ---
 ## PROJECTS
 ---
-(**Elevate**)[https://github.com/davidyshin/elevate]
+[**Elevate**](https://github.com/davidyshin/elevate)
 React.js, Postgres, CSS3
 A job application management platform featuring an SMS/email reminder system for improtant dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
 
-(**TrainMe**)[https://github.com/helencho/trainme]
+[**TrainMe**](https://github.com/helencho/trainme)
 
 ---
 ## EXPERIENCE
