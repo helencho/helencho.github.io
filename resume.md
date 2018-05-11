@@ -1,8 +1,14 @@
 # Helen Cho
 
-| Phone      | Github         | LinkedIn      | Website   | Email |
+<!-- | Phone      | Github         | LinkedIn      | Website   | Email |
 |------------|----------------|---------------|-----------|-------|
-| 516 244 7969 | [/helencho](https://github.com/helencho) | [/haeyoungcho](https://www.linkedin.com/in/haeyoungcho/) | helencho.io | helencho@ac.c4q.nyc
+| 516 244 7969 | [/helencho](https://github.com/helencho) | [/haeyoungcho](https://www.linkedin.com/in/haeyoungcho/) | [helencho.io](http://helencho.io/) | helencho@ac.c4q.nyc -->
+
+:telephone_receiver: 516 244 7969 
+
+:house: [helencho.io](http://helencho.io/)
+
+:email: helencho@ac.c4q.nyc
 
 <!-- 516 244 7969 | [Github](https://github.com/helencho) | [LinkedIn](https://www.linkedin.com/in/haeyoungcho/) | helencho@ac.c4q.nyc -->
 
