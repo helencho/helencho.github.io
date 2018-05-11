@@ -1,5 +1,9 @@
 # HELEN CHO
 
+--------------|--------|----------|---------------------
+516 244 7969  | GitHub | LinkedIn | helencho@ac.c4q.nyc
+
+
 516 244 7969
 
 [Github](https://github.com/helencho)
