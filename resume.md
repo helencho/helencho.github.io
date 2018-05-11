@@ -1,11 +1,12 @@
 # HELEN CHO
 
 516 244 7969
-[Github](https://github.com/helencho)
-[LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
-helencho@ac.c4q.nyc
 
---- 
+[Github](https://github.com/helencho)
+
+[LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
+
+helencho@ac.c4q.nyc
 
 ## SKILLS
 
