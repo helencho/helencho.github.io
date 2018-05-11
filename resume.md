@@ -10,9 +10,11 @@
 
 :email: helencho@ac.c4q.nyc
 
+
 ## Skills
 
 JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, Heroku, Illustrator
+
 
 ## Projects
 
@@ -42,15 +44,20 @@ A darker, sinister photo-sharing platform modeled after Instagram. Implemenets s
 
 A Mad Libs inspired phrasal template word game that prompts users for a list of words to be substituted for blanks in a story. Interacts with an API to fetch stories. Rendered, styled, and brought to life with React and CSS3. 
 
+
 ## Experience
 
-**Coalition For Queens** | *Full Stack Development Fellowship*
+### Coalition For Queens
+
+**Full Stack Development Fellowship**
 
 *Sept 2017 - Present*
 
 Intensive 10-month project-based Full Stack development curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn.
 
-**Choe & Oh, P.C.** | *Legal Assistant*
+### Choe & Oh, P.C.
+
+**Legal Assistant**
 
 *Oct 2015 - Sept 2017*
 
@@ -59,9 +66,9 @@ Coordinated with attorneys, lenders, brokers, and clients to schedule real estat
 
 ## Education 
 
-**University at Albany**
+### University at Albany
 
-*Bachelor of Arts in English* | *Associate of Arts in Art History*
+**Bachelor of Arts in English** | **Associate of Arts in Art History**
 
-**May 2014**
+*May 2014*
 
