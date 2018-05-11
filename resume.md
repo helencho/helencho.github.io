@@ -7,10 +7,15 @@
 
 516 244 7969 | [Github](https://github.com/helencho) | [LinkedIn](https://www.linkedin.com/in/haeyoungcho/) | helencho@ac.c4q.nyc
 
+---
+---
+
 ## Skills
 
 JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, Heroku, Illustrator
 
+---
+---
 
 ## Projects
 
@@ -23,6 +28,9 @@ A job application management platform featuring an SMS/email reminder system for
 [**Sinistagram**]() | *React.js, Postgres, CSS3* 
 
 [**Madlify**]() | *React.js, CSS3* 
+
+---
+---
 
 ## Experience
 
@@ -38,6 +46,8 @@ Intensive 10-month project-based Full Stack development curriculum designed by e
 
 Coordinated with attorneys, lenders, brokers, and clients to schedule real estate closings. Prepared contracts, deeds, transfer tax forms, and closing statements. Performed daily duties such as balancing accounts, bill payments, maintaining office calendars, and restocking inventory.
 
+---
+---
 
 ## Education 
 
