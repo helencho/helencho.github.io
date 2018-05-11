@@ -14,8 +14,6 @@
 
 :email: helencho@ac.c4q.nyc
 
-:telephone_receiver: 516 244 7969 | :house: [helencho.io](http://helencho.io/) | :computer: [Github](https://github.com/helencho) | :briefcase: [LinkedIn](https://www.linkedin.com/in/haeyoungcho/) | :email: helencho@ac.c4q.nyc
-
 <!-- 516 244 7969 | [Github](https://github.com/helencho) | [LinkedIn](https://www.linkedin.com/in/haeyoungcho/) | helencho@ac.c4q.nyc -->
 
 ## Skills
