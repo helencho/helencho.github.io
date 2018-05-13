@@ -47,7 +47,7 @@ A Mad Libs inspired phrasal template word game that prompts users for a list of 
 
 ## Experience
 
-### Coalition For Queens
+### [Coalition For Queens](https://www.c4q.nyc/accesscode/)
 
 **Full Stack Development Fellowship**
 
