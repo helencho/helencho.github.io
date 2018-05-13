@@ -12,7 +12,7 @@ JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, H
 
 *React.js, Postgres, CSS3*
 
-A job application management platform featuring an SMS/email reminder system for improtant dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
+A job application management platform featuring an SMS/email reminder system for important dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
 
 
 ### [TrainMe](https://github.com/helencho/trainme)
@@ -26,7 +26,7 @@ A web application that connects individuals looking to start a new career with v
 
 *React.js, Postgres, CSS3* 
 
-A darker, sinister photo-sharing platform modeled after Instagram. Implemenets secure authentication using Bcrypt. Employes modern CSS3 styling for optimal user-friendliness.
+A darker, sinister photo-sharing platform modeled after Instagram. Implements secure authentication using Bcrypt. Employs modern CSS3 styling for optimal user-friendliness.
 
 ### [Madlify](https://github.com/helencho/madlify)
 
@@ -39,11 +39,11 @@ A Mad Libs inspired phrasal template word game that prompts users for a list of 
 
 ### [Coalition For Queens](https://www.c4q.nyc/accesscode/)
 
-**Full Stack Development Fellowship**
+**Full Stack Web Development Fellowship**
 
 *Sept 2017 - Present*
 
-Intensive 10-month project-based Full Stack development curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn.
+An intensive 10-month project-based Full Stack development curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn. Graduates are prepared with both technical and professional skills and have been hired as developers at leading companies such as Pinterest, JP Morgan, and Spotify. 
 
 ### Choe & Oh, P.C.
 
