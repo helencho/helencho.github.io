@@ -1,15 +1,5 @@
 # Helen Cho
 
-:telephone_receiver: 516 244 7969 
-
-:house: [helencho.io](http://helencho.io/)
-
-:computer: [Github](https://github.com/helencho)
-
-:briefcase: [LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
-
-:email: helencho@ac.c4q.nyc
-
 
 ## Skills
 
@@ -72,3 +62,15 @@ Coordinated with attorneys, lenders, brokers, and clients to schedule real estat
 
 *May 2014*
 
+
+## Contact
+
+:telephone_receiver: 516 244 7969 
+
+:house: [helencho.io](http://helencho.io/)
+
+:computer: [Github](https://github.com/helencho)
+
+:briefcase: [LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
+
+:email: helencho@ac.c4q.nyc
