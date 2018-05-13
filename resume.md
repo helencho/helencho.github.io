@@ -22,7 +22,7 @@ JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, H
 
 *React.js, Postgres, CSS3*
 
-A job application management platform featuring an SMS/email reminder system for improtant dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
+> A job application management platform featuring an SMS/email reminder system for improtant dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
 
 
 ### [TrainMe](https://github.com/helencho/trainme)
