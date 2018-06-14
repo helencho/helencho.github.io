@@ -2927,7 +2927,12 @@
 		#skills {
 			display: flex;
 			flex-wrap: wrap;
-			justify-content: space-around;
+			/* justify-content: space-around; */
+			justify-content: center;
+		}
+
+		#skills .skill-box {
+			margin: 0.8rem;
 		}
 
 		#skills svg {
