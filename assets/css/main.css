@@ -3312,8 +3312,10 @@
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
 		/* background: #218fb2; */
-		background: rgba(31, 24, 21, 0.9);
-		color: #ffffff;
+		/* background: rgba(31, 24, 21, 0.9); */
+		/* color: #ffffff; */
+		background: rgba(254, 254, 254, 1);
+		color: #000000;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
