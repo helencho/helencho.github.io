@@ -1,38 +1,42 @@
 # Helen Cho
 
-
 ## Skills
 
-JavaScript, React.js, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, Heroku, Illustrator
-
+JavaScript, React/Redux, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, Heroku, Docker, Illustrator
 
 ## Projects
 
+### [Smood](https://github.com/helencho/smood)
+
+*Node.js, React, Redux, Postgres, CSS3*
+
+A progressive web app for tracking daily moods and activities. Provides visual representations of moods using Recharts.js, implements secure authentication using Bcrypt, and tracks state changes through multiple components using Redux. Minimalistic animations for an intuitive user experience.
+
 ### [Elevate](https://github.com/davidyshin/elevate)
 
-*React.js, Postgres, CSS3*
+*Node.js, React, Postgres, CSS3*
 
-A job application management platform featuring an SMS/email reminder system for important dates and an incentivized, gamified reward system. Persists user across sessions with cookies and tracks state changes through multiple components. Manages file upload on cloud storage on AWS S3 buckets. Clean design and sleek display for intuitive user experience.
+A job application management platform featuring an SMS/email reminder system using Twilio and Nodemailer. Implements an incentivized and gamified reward system with custom-designed badges. Persists user across sessions using Passport.js. Manages file upload on cloud storage on AWS S3 buckets.
 
 
 ### [TrainMe](https://github.com/helencho/trainme)
 
-*React.js, CSS3*
+*React, CSS3*
 
 A web application that connects individuals looking to start a new career with vocational resources offered in the New York City area. Interacts with [NYC Open Data API](https://data.cityofnewyork.us/Business/Courses-Training-Provider-Listing/fgq8-am2v) to fetch course data. Winner of best user experience at C4Q Access Code's third annual Hackathon.
 
 
 ### [Sinistagram](https://github.com/helencho/sinistagram)
 
-*React.js, Postgres, CSS3* 
+*Node.js, React, Postgres, CSS3* 
 
 A darker, sinister photo-sharing platform modeled after Instagram. Implements secure authentication using Bcrypt. Employs modern CSS3 styling for optimal user-friendliness.
 
 ### [Madlify](https://github.com/helencho/madlify)
 
-*React.js, CSS3* 
+*React, CSS3* 
 
-A Mad Libs inspired phrasal template word game that prompts users for a list of words to be substituted for blanks in a story. Interacts with an API to fetch stories. Rendered, styled, and brought to life with React and CSS3. 
+A Mad Libs inspired phrasal template word game that prompts users for a list of words to be substituted for blanks in a story. Interacts with a RESTful API to fetch stories.
 
 
 ## Experience
@@ -43,7 +47,7 @@ A Mad Libs inspired phrasal template word game that prompts users for a list of 
 
 *Sept 2017 - Present*
 
-An intensive 10-month project-based Full Stack development curriculum designed by engineers from Vice, Facebook, Yahoo, Artsy, and LinkedIn. Graduates are prepared with both technical and professional skills and have been hired as developers at leading companies such as Pinterest, JP Morgan, and Spotify. 
+An intensive 10-month, Google-funded fellowship with a 9% acceptance rate. Gained hands on experience building full-stack and front-end web applications from a project-based curriculum designed by engineers at Vice, Facebook, Yahoo, Artsy and LinkedIn.
 
 ### Choe & Oh, P.C.
 
@@ -53,15 +57,21 @@ An intensive 10-month project-based Full Stack development curriculum designed b
 
 Coordinated with attorneys, lenders, brokers, and clients to schedule real estate closings. Prepared contracts, deeds, transfer tax forms, and closing statements. Performed daily duties such as balancing accounts, bill payments, maintaining office calendars, and restocking inventory.
 
+### Asian American Writers' Workshop
+
+**Digital Media Intern**
+
+*June 2015 - Aug 2015*
+
+Mostly designed promotional posters that consistently yielded full attendance at our workshops, but also curated Asian American literature content to publish on social media, and handpicked showcase materials to be presented in a visual format for 2014 grant proposal package.
 
 ## Education 
 
 ### University at Albany
 
-**Bachelor of Arts in English** | **Associate of Arts in Art History**
+**English Literature** | **Art History**
 
 *May 2014*
-
 
 ## Contact
 
@@ -72,5 +82,7 @@ Coordinated with attorneys, lenders, brokers, and clients to schedule real estat
 :computer: [Github](https://github.com/helencho)
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
+
+:bird: [Twitter](https://twitter.com/hellohelencho)
 
 :email: helencho@ac.c4q.nyc

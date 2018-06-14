@@ -1,5 +1,5 @@
-# Website 
+# [helencho.io](http://helencho.io/) 
 
-A portfolio website to house my projects, resume, skills and social media. 
+A website for my online presence. 
 
-[helencho.io](http://helencho.io/) 
+Here's my resume in markdown -- [resume](./resume.md)
