@@ -2518,7 +2518,7 @@
 
 .project-tile {
 	position: relative;
-	width: 30%;
+	width: 28%;
 	margin: 0 auto;
 }
 
@@ -2580,6 +2580,10 @@
 
 .description-right p:last-child {
 	padding-left: 12%;
+}
+
+.description .tech-stacks {
+	color: #00b0ff;
 }
 
 @media screen and (max-width: 980px) {
