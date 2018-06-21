@@ -1,5 +1,5 @@
 # [helencho.io](http://helencho.io/) 
 
-A website for my online presence. 
+A website for my online presence: about me, projects, skills and contacts. All that good stuff.
 
-Here's my resume in markdown -- [resume](./resume.md)
+And here's my [resume in markdown](./resume.md).
