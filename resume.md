@@ -2,19 +2,19 @@
 
 ## Skills
 
-JavaScript, React/Redux, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, APIs, Heroku, Docker, Illustrator
+JavaScript, React/Redux, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, RESTful API, Heroku, Illustrator
 
 ## Projects
 
 ### [Smood](https://github.com/helencho/smood)
 
-*Node.js, React, Redux, Postgres, CSS3*
+*Postgres, Express, React, Redux, Node.js, CSS3*
 
 A progressive web app for tracking daily moods and activities. Provides visual representations of moods using Recharts.js, implements secure authentication using Bcrypt, and tracks state changes through multiple components using Redux. Minimalistic animations for an intuitive user experience.
 
 ### [Elevate](https://github.com/davidyshin/elevate)
 
-*Node.js, React, Postgres, CSS3*
+*Postgres, Express, React, Node.js, CSS3*
 
 A job application management platform featuring an SMS/email reminder system using Twilio and Nodemailer. Implements an incentivized and gamified reward system with custom-designed badges. Persists user across sessions using Passport.js. Manages file upload on cloud storage on AWS S3 buckets.
 
@@ -28,7 +28,7 @@ A web application that connects individuals looking to start a new career with v
 
 ### [Sinistagram](https://github.com/helencho/sinistagram)
 
-*Node.js, React, Postgres, CSS3* 
+*Postgres, Express, React, Node.js, CSS3*
 
 A darker, sinister photo-sharing platform modeled after Instagram. Implements secure authentication using Bcrypt. Employs modern CSS3 styling for optimal user-friendliness.
 
