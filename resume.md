@@ -56,7 +56,7 @@ An intensive 10-month, Google-funded fellowship with a 9% acceptance rate. Gaine
 
 Coordinated with attorneys, lenders, brokers, and clients to schedule real estate closings. Prepared contracts, deeds, transfer tax forms, and closing statements. Performed daily duties such as balancing accounts, bill payments, maintaining office calendars, and restocking inventory.
 
-### Asian American Writers' Workshop
+### [Asian American Writers' Workshop](https://aaww.org/)
 
 **Digital Media Intern**
 
