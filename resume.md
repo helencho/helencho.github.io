@@ -2,7 +2,7 @@
 
 ## Skills
 
-JavaScript, React/Redux, Node.js, Express, Postgres, HTML, CSS, Git/GitHub, RESTful API, Heroku, Illustrator
+JavaScript, React/Redux, Node.js, Express, Postgres, HTML, CSS, Git, RESTful API, Heroku, Illustrator
 
 ## Projects
 
@@ -36,8 +36,7 @@ A darker, sinister photo-sharing platform modeled after Instagram. Implements se
 
 *React, CSS3* 
 
-A Mad Libs inspired phrasal template word game that prompts users for a list of words to be substituted for blanks in a story. Interacts with a RESTful API to fetch stories.
-
+A Mad Libs inspired phrasal template word game that prompts users for a list of words to be substituted for blanks in a story. 
 
 ## Experience
 
@@ -45,7 +44,7 @@ A Mad Libs inspired phrasal template word game that prompts users for a list of 
 
 **Full Stack Web Development Fellowship**
 
-*Sept 2017 - Present*
+*Sept 2017 - June 2018*
 
 An intensive 10-month, Google-funded fellowship with a 9% acceptance rate. Gained hands on experience building full-stack and front-end web applications from a project-based curriculum designed by engineers at Vice, Facebook, Yahoo, Artsy and LinkedIn.
 
@@ -77,6 +76,8 @@ Mostly designed promotional posters that consistently yielded full attendance at
 
 :telephone_receiver: 516 244 7969 
 
+:email: helencho@ac.c4q.nyc
+
 :house: [helencho.io](http://helencho.io/)
 
 :computer: [Github](https://github.com/helencho)
@@ -84,5 +85,3 @@ Mostly designed promotional posters that consistently yielded full attendance at
 :briefcase: [LinkedIn](https://www.linkedin.com/in/haeyoungcho/)
 
 :bird: [Twitter](https://twitter.com/hellohelencho)
-
-:email: helencho@ac.c4q.nyc
